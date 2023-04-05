@@ -3,6 +3,7 @@
 	    {"Code":"awesome"}
     ],
 "SkipStage":[
-        {"Code":"cool"}
+        {"Code":"cool"},
+	{"Code":"cool 2"}
     ]
 }
