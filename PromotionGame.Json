@@ -1,7 +1,7 @@
-{"Promotion":[
-      {"Title":"Guess the emoji"},
-	{"GameId":"7967092071"},
-      {"PromoText":"Join this awesome game now!"},
-      {"PromoOn":"true"}
-    ],
+{"Games":[
+        {
+            "GameID":"7967092071",
+            "GameTitle":"Guess The Emoji"
+        }
+    ]
 }
