@@ -7,13 +7,20 @@
         "Target": {}
     },
     {
+        "GameID": "8850268865",
+        "GameTitle": "Guess The Animal",
+        "GameDescription": "Check this game out!",
+        "Activated": "true",
+        "Target": {}
+    },
+    {
         "GameID": "7967092071",
         "GameTitle": "Guess The School",
         "GameDescription": "Play and Learn!",
         "Activated": "true",
         "Target": {
             "Guess-The-Maths": "8070834239",
-            "Guess-the-Emoji": "7967092071"
+            "Guess-The-Emoji": "7967092071"
         }
     }
 ]
