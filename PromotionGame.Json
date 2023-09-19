@@ -3,14 +3,14 @@
         "GameID": "7967092071",
         "GameTitle": "Guess The Emoji",
         "GameDescription": "Check this game out!",
-        "Activated": "true",
+        "Activated": "false",
         "Target": {}
     },
     {
         "GameID": "12573505154",
         "GameTitle": "Guess The School",
         "GameDescription": "Play and Learn!",
-        "Activated": "true",
+        "Activated": "false",
         "Target": {
             "Guess-The-Maths": "8070834239",
             "Guess-The-Emoji": "7967092071",
@@ -21,7 +21,7 @@
         "GameID": "8850268865",
         "GameTitle": "Guess The Animal",
         "GameDescription": "Check this game out!",
-        "Activated": "true",
+        "Activated": "false",
         "Target": {}
     }
 ]
