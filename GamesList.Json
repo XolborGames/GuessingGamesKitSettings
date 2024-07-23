@@ -75,5 +75,8 @@
             "GameID":"9191367280",
             "GameTitle":"Guess The Sports"
         }
-    ]
+    ],
+    "Settings":{
+        "IsRandom":false
+    }
 }
